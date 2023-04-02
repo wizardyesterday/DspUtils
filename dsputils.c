@@ -687,7 +687,7 @@ float v1[2], v2[2];
 /*      function: lfir                                                    */
 /*                                                                        */
 /*      purpose: The purpose of this function is to perform the actions   */
-/*      of a linear phase finite impulse response (IIR) filter. The       */
+/*      of a linear phase finite impulse response (FIR) filter. The       */
 /*      following inputs are required:                                    */
 /*                                                                        */
 /*      Filter order: m                                                   */
